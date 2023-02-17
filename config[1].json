@@ -1,0 +1,14 @@
+{
+    "ip": "BipedBootghm9.aternos.me",
+    "port": 63896,
+    "name": "BOTSERVER7",
+    "auto-night-skip": "false",
+    "join-msg": "hello",
+    "join-msg-on": "true",
+    "custom-message-enabled": "true",
+    "custom-message-1": "subscribe to BIpedBoot",
+    "custom-message-2": "subscribe to BIpedBoot",
+    "login-enabled": "true",
+    "register-cmd": "/register NIKBNJVNHMHUBl90978",
+    "login-cmd": "/login NIKBNJVNHMHUB"
+}
